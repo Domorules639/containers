@@ -7,8 +7,8 @@ body {
 }
 
 .mealplan /* this is a container */ {
-  height: 15%;
-  background-color: yellow;
+  height: 12%;
+  background-color: rgba(232,232,232,100);
 }
 .mealplangrid /* this is a container */ {
   height: 100%;
