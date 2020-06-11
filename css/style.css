@@ -1,9 +1,10 @@
-html,body{
+body{
     width: auto;
     height: 100%;
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
+    background: #d3d3d3
 }
 
 .homeimage /* this is a container */ {

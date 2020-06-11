@@ -13,7 +13,7 @@ body {
 
 .container {
   height: 60px;
-  background-color: #333333;
+  background-color: #ffffff;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -23,7 +23,7 @@ body {
   -ms-flex-align: center;
   align-items: center;
   overflow: hidden;
-  position: absolute;
+  position: fixed;
   width: 100%;
 }
 
@@ -48,6 +48,7 @@ body {
 .container .logo a img {
   max-width: 100%;
   max-height: 60px;
+
 }
 
 .container .navbar {
@@ -75,7 +76,7 @@ body {
 
 .container .navbar ul li a {
   text-decoration: none;
-  color: #999999;
+  color: #696969;
   font-size: 14px;
   text-transform: uppercase;
   display: block;
@@ -83,6 +84,9 @@ body {
   line-height: 60px;
   cursor: pointer;
   padding: 0 10px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+  letter-spacing: 2px;
 }
 
 .container .navbar ul li a:hover {
