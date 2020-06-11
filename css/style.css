@@ -9,11 +9,13 @@ html,body{
 .homeimage /* this is a container */ {
   height: 88%;
   position: relative;
+  z-index: -1;
 }
 
 .mealplan /* this is a container */ {
   height: 12%;
   background-color: rgba(232,232,232,100);
+  z-index: -1;
 }
 .mealtimes{
   height: 8%;
