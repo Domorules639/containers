@@ -76,7 +76,7 @@ body {
 
 .container .navbar ul li a {
   text-decoration: none;
-  color: #696969;
+  color: #505050;
   font-size: 14px;
   text-transform: uppercase;
   display: block;
@@ -170,7 +170,7 @@ body {
     font-size: 16px;
     height: auto;
     line-height: normal;
-    color: #555555;
+    color: #505050;
   }
 
   .container .navbar ul .close {
